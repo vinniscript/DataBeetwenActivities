@@ -1,0 +1,1 @@
+Para testes e aprendizados, esse repositório foi criado pelo terminal do git. Compare esse com o repositório criado diretamente pelo próprio Android Studio. Depois, bata para ver quais arquivos são descartados e quais são levantados no gitignore.
